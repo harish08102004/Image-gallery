@@ -1,0 +1,16 @@
+#gallery{
+    margin-right: 1px;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    background-color: black;
+    display: grid;
+    grid-template-columns: 250px 250px 250px;
+    padding: 0 4px;
+    justify-content: center;
+  }
+  
+  .img {
+    margin-top: 8px;
+    vertical-align: middle;
+  }
